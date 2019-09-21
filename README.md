@@ -1,2 +1,5 @@
-# azure-kinect-playground
+# Azure Kinect Playground
  
+### Docs
+
+https://aka.ms/kinectdocs
